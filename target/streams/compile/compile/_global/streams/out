@@ -1,2 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Kashima\Desktop\FML\Stratego-SE\src\main\scala\de\htwg\se\stratego\model\matchFieldComponent\matchFieldBaseImpl\Game.scala:124:34: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: List(_), List(_, _, _), Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m    input.split(" ").map(_.trim).toList match{[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
 [0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings (since 2.11.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
